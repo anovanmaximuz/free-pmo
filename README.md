@@ -49,7 +49,7 @@ This application can be installed on local server and online server with these s
 
 #### Installation Steps
 
-1. Clone the repo : `git clone https://github.com/nafiesl/free-pmo.git`
+1. Clone the repo : `git clone https://github.com/anovanmaximuz/free-pmo`
 2. `$ cd free-pmo`
 3. `$ composer install`
 4. `$ cp .env.example .env`
